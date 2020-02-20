@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\AliExpBusines\bin\Debug\AliExpBusines.dll
+C:\Users\joel.siliceo\source\repos\AliExpBusines\bin\Debug\AliExpBusines.pdb
+C:\Users\joel.siliceo\source\repos\AliExpBusines\obj\Debug\AliExpBusines.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\AliExpBusines\obj\Debug\AliExpBusines.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\AliExpBusines\obj\Debug\AliExpBusines.dll
+C:\Users\joel.siliceo\source\repos\AliExpBusines\obj\Debug\AliExpBusines.pdb

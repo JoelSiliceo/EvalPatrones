@@ -1,0 +1,9 @@
+C:\Users\joel.siliceo\source\repos\LectorDatos\bin\Debug\LectorDatos.dll
+C:\Users\joel.siliceo\source\repos\LectorDatos\bin\Debug\LectorDatos.pdb
+C:\Users\joel.siliceo\source\repos\LectorDatos\bin\Debug\AliExpBusines.dll
+C:\Users\joel.siliceo\source\repos\LectorDatos\bin\Debug\AliExpBusines.pdb
+C:\Users\joel.siliceo\source\repos\LectorDatos\obj\Debug\LectorDatos.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\LectorDatos\obj\Debug\LectorDatos.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\LectorDatos\obj\Debug\LectorDatos.csproj.CopyComplete
+C:\Users\joel.siliceo\source\repos\LectorDatos\obj\Debug\LectorDatos.dll
+C:\Users\joel.siliceo\source\repos\LectorDatos\obj\Debug\LectorDatos.pdb

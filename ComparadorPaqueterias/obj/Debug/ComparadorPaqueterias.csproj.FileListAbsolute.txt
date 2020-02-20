@@ -1,0 +1,15 @@
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\ComparadorPaqueterias.dll
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\ComparadorPaqueterias.pdb
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\obj\Debug\ComparadorPaqueterias.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\obj\Debug\ComparadorPaqueterias.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\obj\Debug\ComparadorPaqueterias.dll
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\obj\Debug\ComparadorPaqueterias.pdb
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\AliExpBusines.dll
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\CalculadorEntregas.dll
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\CreadorFecha.dll
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\ImpresorDatos.dll
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\AliExpBusines.pdb
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\CalculadorEntregas.pdb
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\CreadorFecha.pdb
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\bin\Debug\ImpresorDatos.pdb
+C:\Users\joel.siliceo\source\repos\ComparadorPaqueterias\obj\Debug\ComparadorPaqueterias.csproj.CopyComplete

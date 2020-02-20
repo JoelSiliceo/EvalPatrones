@@ -1,0 +1,6 @@
+C:\Users\joel.siliceo\source\repos\CreadorFecha\bin\Debug\CreadorFecha.dll
+C:\Users\joel.siliceo\source\repos\CreadorFecha\bin\Debug\CreadorFecha.pdb
+C:\Users\joel.siliceo\source\repos\CreadorFecha\obj\Debug\CreadorFecha.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\CreadorFecha\obj\Debug\CreadorFecha.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\CreadorFecha\obj\Debug\CreadorFecha.dll
+C:\Users\joel.siliceo\source\repos\CreadorFecha\obj\Debug\CreadorFecha.pdb

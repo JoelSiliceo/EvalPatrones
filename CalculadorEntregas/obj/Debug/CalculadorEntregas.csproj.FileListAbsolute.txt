@@ -1,0 +1,9 @@
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\bin\Debug\CalculadorEntregas.dll
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\bin\Debug\CalculadorEntregas.pdb
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\obj\Debug\CalculadorEntregas.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\obj\Debug\CalculadorEntregas.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\obj\Debug\CalculadorEntregas.dll
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\obj\Debug\CalculadorEntregas.pdb
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\bin\Debug\AliExpBusines.dll
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\bin\Debug\AliExpBusines.pdb
+C:\Users\joel.siliceo\source\repos\CalculadorEntregas\obj\Debug\CalculadorEntregas.csproj.CopyComplete
