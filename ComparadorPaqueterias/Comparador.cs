@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace ComparadorPaqueterias
 {
-    public class Comparador
+    public class Comparador : IComparador
     {
 
-        public void Compara(Impresor impresor, IPaqueteria paqueteria)
+        public void Compara(IImprimible impresor, IPaqueteria paqueteria)
         {
             double miPrecio = paqueteria.CalcularCosto();
             double otroPrecio = 0;

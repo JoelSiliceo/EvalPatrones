@@ -1,11 +1,14 @@
 ﻿using AliExpBusines.Entidades;
+using ComparadorPaqueterias;
 using CreadorFecha;
+using ImpresorDatos;
 using System.Collections.Generic;
+
 
 
 namespace AliExpress
 {
-    public class GenerarReporte
+    public class GenerarReporte : IGenerarReporte
     {
         List<Pedido> pedidos;
 
@@ -17,7 +20,12 @@ namespace AliExpress
         public void GeneraReporte()
         {
             ICreadorFecha creadorFecha = new CreadorFecha.CreadorFecha();
-            ComparadorPaqueterias.CalculadorEntregas calcEntrega = new ComparadorPaqueterias.CalculadorEntregas(this.pedidos, creadorFecha);
+            IConstructorPaqueteria ctorPaqueteria = new ConstructorPaqueteria();
+            IImprimible impresor = new Impresor();
+            ImpresorResultado impResultado = new ImpresorResultado(creadorFecha);
+            IComparador comparador = new Comparador();
+            ComparadorPaqueterias.ICalculadorEntrega calcEntrega = new ComparadorPaqueterias.CalculadorEntregas(this.pedidos, creadorFecha,
+                ctorPaqueteria, impresor, impResultado, comparador);
 
             calcEntrega.CalcularEntregas();
         }

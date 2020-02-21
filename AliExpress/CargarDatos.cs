@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace AliExpress
 {
-    public class CargarDatos
+    public class CargarDatos : ICargarDatos
     {
         IGeneradorPedidos generadorPedidos;
         public CargarDatos(string _ruta)

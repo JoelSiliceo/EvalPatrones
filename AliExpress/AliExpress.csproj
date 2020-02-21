@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="CargarDatos.cs" />
     <Compile Include="GenerarReporte.cs" />
+    <Compile Include="ICargarDatos.cs" />
+    <Compile Include="IGenerarReporte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -77,6 +79,10 @@
     <ProjectReference Include="..\CreadorFecha\CreadorFecha.csproj">
       <Project>{1b3c217d-d467-493d-a021-a3b0cfef0ba9}</Project>
       <Name>CreadorFecha</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ImpresorDatos\ImpresorDatos.csproj">
+      <Project>{a4725a36-419a-4b84-b8aa-ddc1c11dce25}</Project>
+      <Name>ImpresorDatos</Name>
     </ProjectReference>
     <ProjectReference Include="..\LectorDatos\LectorDatos.csproj">
       <Project>{4f0006a2-a442-437d-875f-c24b0f3e3bc1}</Project>

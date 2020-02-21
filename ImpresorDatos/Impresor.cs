@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ImpresorDatos
 {
-    public class Impresor
+    public class Impresor : IImprimible
     {
         private IImpresorDatos impresor;
         private IColor color;

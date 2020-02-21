@@ -44,6 +44,10 @@
     <Compile Include="CalculadorEntregas.cs" />
     <Compile Include="Comparador.cs" />
     <Compile Include="ConstructorPaqueteria.cs" />
+    <Compile Include="ICalculadorEntrega.cs" />
+    <Compile Include="IComparador.cs" />
+    <Compile Include="IConstructorPaqueteria.cs" />
+    <Compile Include="IImpresorResultado.cs" />
     <Compile Include="ImpresorResultado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

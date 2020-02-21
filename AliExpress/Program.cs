@@ -7,9 +7,9 @@ namespace AliExpress
     {
         static void Main(string[] args)
         {
-            CargarDatos cargaDatos = new CargarDatos("datosPedidos.txt");
+            ICargarDatos cargaDatos = new CargarDatos("datosPedidos.txt");
             List<Pedido> pedidos = cargaDatos.ObtenerPedidosTextoCSV();
-            GenerarReporte generarReporte = new GenerarReporte(pedidos);
+            IGenerarReporte generarReporte = new GenerarReporte(pedidos);
             generarReporte.GeneraReporte();
 
             System.Console.ReadLine();

@@ -10,12 +10,12 @@ using System.Threading.Tasks;
 namespace ComparadorPaqueterias
 {
 
-    public class ConstructorPaqueteria
+    public class ConstructorPaqueteria : IConstructorPaqueteria
     {
         public Pedido pedido { get; set; }
-        private Impresor impresor;
+        private IImprimible impresor;
 
-        public IPaqueteria PrepararPaqueteria(Impresor _impresor)
+        public IPaqueteria PrepararPaqueteria(IImprimible _impresor)
         {
             this.impresor = _impresor;
             IGeneradorEntrega generador = new GeneradorEntrega(this.pedido);

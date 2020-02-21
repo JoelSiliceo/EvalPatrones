@@ -7,7 +7,7 @@ using System;
 
 namespace ComparadorPaqueterias
 {
-    public class ImpresorResultado
+    public class ImpresorResultado : IImpresorResultado
     {
         private ICreadorFecha creadorFecha;
 
@@ -16,7 +16,7 @@ namespace ComparadorPaqueterias
             this.creadorFecha = _creadorFecha;
         }
 
-        public  void Imprimir(Impresor impresor, Pedido pedido, IPaqueteria paqueteria)
+        public  void Imprimir(IImprimible impresor, Pedido pedido, IPaqueteria paqueteria)
         {
             impresor.CambiarMensaje(this.GenerarMensajePorFecha(pedido, paqueteria));
             if (paqueteria.CalcularEntrega() < this.creadorFecha.GenerarFechaActual())

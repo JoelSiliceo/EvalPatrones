@@ -70,6 +70,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="GeneradorEntregaGeneradorEntrega.cs" />
+    <Compile Include="GenerarReporteGeneradorEntrega.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -80,9 +81,17 @@
       <Project>{8885c1e5-d5e2-4404-94c7-585060076f28}</Project>
       <Name>AliExpBusines</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AliExpress\AliExpress.csproj">
+      <Project>{337B164E-65A1-4A2E-A0E1-592CA3BDB7BF}</Project>
+      <Name>AliExpress</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CalculadorEntregas\CalculadorEntregas.csproj">
       <Project>{B0F77FA3-C849-40C0-9DB8-BAD36DB3A016}</Project>
       <Name>CalculadorEntregas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CreadorFecha\CreadorFecha.csproj">
+      <Project>{1b3c217d-d467-493d-a021-a3b0cfef0ba9}</Project>
+      <Name>CreadorFecha</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

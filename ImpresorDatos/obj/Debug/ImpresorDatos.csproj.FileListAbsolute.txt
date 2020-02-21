@@ -9,3 +9,14 @@ C:\Users\joel.siliceo\source\repos\ImpresorDatos\bin\Debug\AliExpBusines.dll
 C:\Users\joel.siliceo\source\repos\ImpresorDatos\bin\Debug\CalculadorEntregas.pdb
 C:\Users\joel.siliceo\source\repos\ImpresorDatos\bin\Debug\AliExpBusines.pdb
 C:\Users\joel.siliceo\source\repos\ImpresorDatos\obj\Debug\ImpresorDatos.csproj.CopyComplete
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\bin\Debug\ImpresorDatos.dll
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\bin\Debug\ImpresorDatos.pdb
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\bin\Debug\CalculadorEntregas.dll
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\bin\Debug\AliExpBusines.dll
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\bin\Debug\CalculadorEntregas.pdb
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\bin\Debug\AliExpBusines.pdb
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\obj\Debug\ImpresorDatos.csprojAssemblyReference.cache
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\obj\Debug\ImpresorDatos.csproj.CoreCompileInputs.cache
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\obj\Debug\ImpresorDatos.csproj.CopyComplete
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\obj\Debug\ImpresorDatos.dll
+C:\Users\joel.siliceo\source\repos\EvaluacionPatrones\ImpresorDatos\obj\Debug\ImpresorDatos.pdb

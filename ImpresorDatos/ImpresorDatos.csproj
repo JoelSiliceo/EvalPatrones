@@ -44,6 +44,7 @@
     <Compile Include="Color.cs" />
     <Compile Include="IColor.cs" />
     <Compile Include="IImpresorDatos.cs" />
+    <Compile Include="IImprimible.cs" />
     <Compile Include="Impresor.cs" />
     <Compile Include="ImprimirConsola.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
